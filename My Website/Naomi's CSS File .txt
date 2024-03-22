@@ -1,0 +1,10 @@
+/* Naomi's CSS File */
+
+body  {
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	line-height: 1.5;
+	marfin: 0;
+	paddings: 0;
+	background: DarkOrchid ;
+}
